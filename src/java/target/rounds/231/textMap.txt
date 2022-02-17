@@ -1,0 +1,10 @@
+======================================================================================================
+round:231
+player: id:1 position: y:3 x:1408 speed:9 state:HIT_OIL statesThatOccurredThisRound:USED_BOOST, HIT_OIL boosting:false boost-counter:0 damage:1 score:483 powerups: LIZARD:15, TWEET:3, EMP:4, OIL:4, BOOST:1
+opponent: id:2 position: y:3 x:1409 speed:9
+
+[░░░░░░░#░░░░░░░░░░░░░░░░T░]
+[░░░░░░░░░░░░░░░░░░░░░░░░░░]
+[░░░░░12░░░░░░░░░*░░░░░░░░░]
+[░∱░░#░░░░░░░░░░▓∱░░░░*░░░░]
+======================================================================================================

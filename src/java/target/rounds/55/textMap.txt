@@ -1,0 +1,10 @@
+======================================================================================================
+round:55
+player: id:1 position: y:4 x:428 speed:3 state:TURNING_RIGHT statesThatOccurredThisRound:TURNING_RIGHT boosting:false boost-counter:0 damage:1 score:165 powerups: OIL:1, BOOST:3, LIZARD:1, EMP:5
+opponent: id:2 position: y:3 x:407 speed:9
+
+[░▓▓∱░░░░░░░░░░░░░░░░░░░░░░]
+[░░░░░░░░T░░░░░░░░░░░░░▓░░░]
+[░░░░░░░▓▓░░░░░░░░░░░░░▓░░░]
+[░░░Φ░1░#░▓░░░░░*░░░░░░▓░T░]
+======================================================================================================

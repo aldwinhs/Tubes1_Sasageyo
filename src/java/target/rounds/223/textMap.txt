@@ -1,0 +1,10 @@
+======================================================================================================
+round:223
+player: id:1 position: y:3 x:1379 speed:6 state:HIT_MUD statesThatOccurredThisRound:USED_BOOST, HIT_MUD, HIT_MUD, HIT_MUD boosting:false boost-counter:0 damage:3 score:472 powerups: OIL:2, LIZARD:15, EMP:3, TWEET:3
+opponent: id:2 position: y:4 x:1357 speed:15
+
+[░░░░░░░░░░░░░░░░░░░░░░░░░░]
+[░░░░░░░░░░░░▓░░▓░*░»░░░∱░░]
+[▓░░▓░1░░░░░░▓▓▓░░»░░░░░░░░]
+[░░░░░░░░░░░░▓▓▓»░Φ░Φ░░░▓░░]
+======================================================================================================

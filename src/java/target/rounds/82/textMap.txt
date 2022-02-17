@@ -1,0 +1,10 @@
+======================================================================================================
+round:82
+player: id:1 position: y:3 x:618 speed:15 state:USED_TWEET statesThatOccurredThisRound:USED_TWEET boosting:true boost-counter:3 damage:0 score:224 powerups: LIZARD:1, TWEET:4, EMP:9, OIL:1, BOOST:1
+opponent: id:2 position: y:1 x:633 speed:6
+
+[░░█░░░░▓░░░░░░∱░▓░░▓2░░░░░]
+[░░░░▓░░░░░░░░░*░░▓▓∱░░░░░░]
+[░░░░░1░░░░░░░░░░░░░░░░T░T░]
+[░▓░░░T░░░░░░░░░░░░░░░░░░▓░]
+======================================================================================================
