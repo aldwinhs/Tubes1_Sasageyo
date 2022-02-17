@@ -8,7 +8,7 @@
 * [Usage](#usage)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
-* [Contact](#contact)
+* [Author](#author)
 
 
 ## General Information
