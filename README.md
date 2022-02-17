@@ -1,6 +1,6 @@
 # Tugas Besar 1 IF2211 Strategi Algoritma
 > Aplikasi Algoritma _Greedy_ dalam permainan Overdrive.
-> Demo [_link_](https://www.example.com). 
+> Demo [_link_](https://youtu.be/bSfO8lVtIqA). 
 
 ## Table of Contents
 * [General Info](#general-information)
